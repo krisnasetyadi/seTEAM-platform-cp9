@@ -1,0 +1,129 @@
+.profile-page {
+    color: white;
+}
+body {
+    background-color: #171A21;
+}
+.header {
+    color: white;
+    font-size: 16px;
+    height: 70px;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 1rem;
+    margin-bottom: 0;
+}
+
+.menu {
+    font-size: 16px;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-top: solid;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.footer {
+    color: white;
+    font-size: 16px;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-top: solid;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.home-page {
+    color: white;
+    font-size: 16px;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.profile-page-container {
+    /* height: 70vh; */
+    color: white;
+    font-size: 16px;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.game-detail-page-container {
+    color: white;
+    font-size: 16px;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    padding-left: 2rem;
+}
+
+.edit-profile-page {
+    /* height: 70vh; */
+    color: white;
+    font-size: 16px;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.menu-link {
+    color: white !important;
+    text-decoration: none !important;
+    font-size: 16px;
+}
+
+.game-list-page {
+    /* height: 70vh; */
+    color: white;
+    font-size: 16px;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    margin-left: 10rem;
+}
+
+.card-wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 20rem));
+    gap: 2rem;
+    justify-content: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.card-thumbnail {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 50rem));
+    gap: 2rem;
+    justify-content: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.card-bg {
+    background-image: "/public/logo512.png";
+}
+
+.card-overview {
+    font-size: 12px;
+}
+
+.login-page {
+    color: white;
+    font-size: 16px;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.login-logo {
+    margin-bottom: 1rem;
+}

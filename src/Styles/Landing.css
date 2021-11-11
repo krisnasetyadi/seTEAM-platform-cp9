@@ -1,0 +1,38 @@
+body{
+    background-color: #171A21;
+    ;
+}
+
+.text_seteam {
+    margin-left: 10px;
+}
+
+.carousel-inner {
+    max-height: 200px !important;
+    width: 50%;
+    display: block;
+    margin:auto
+}
+
+.featured-text {
+    color: white;
+    margin-left: 25px;
+}
+
+.navbar-dropdown {
+    border-top: solid;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
+.buttomnavbar {
+    border-top: solid;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
+.navbartext {
+    font-size: 10px;
+}

@@ -1,0 +1,213 @@
+
+.column {
+  padding-top: 20px;
+  align-items: center;
+  padding: 10px;
+
+} 
+
+/* .margin {
+  
+  
+}  */
+
+.vs-frame {
+font-family: SF Pro Display;
+/* font-style: normal; */
+font-weight: bold;
+font-size:30px;
+/* line-height: 480px; */
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #ECEFF4;
+display:block;
+text-align: center;
+align-items: center;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 40px;
+padding-right: 40px;
+margin-left: 100px;
+margin-right: 100px;
+background: #035B0C;
+border-radius: 10px;
+height: fit-content;
+width: 280px;
+word-spacing: 100vw;
+
+}
+
+
+.vs-board { 
+word-spacing: 100vw;
+background: #035B0C;
+border-radius: 10px;
+font-weight: bold;
+font-size:30px;
+/* line-height: 480px; */
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #ECEFF4;
+
+display:flex;
+text-align: center;
+align-items: center;
+justify-content: center;
+
+letter-spacing: 0.1em;
+padding-left: 40px;
+padding-right: 40px;
+margin-left: 100px;
+margin-right: 100px;
+/* width: fit-content; */
+/* margin-block: calc(80%); */
+
+}
+.button-board { 
+border-radius: 10px;
+font-weight: bold;
+font-size:30px;
+/* line-height: 480px; */
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #ECEFF4;
+
+display:justify;
+text-align: center;
+align-items: center;
+justify-content:space-between;
+
+letter-spacing: 0.1em;
+padding-left: 40px;
+padding-right: 40px;
+margin-left: 100px;
+margin-right: 100px;
+margin-top: 10px;
+/* margin-block: calc(40%); */
+
+}
+
+
+.result-board { 
+  background: #035B0C;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size:30px;
+  /* line-height: 480px; */
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #ECEFF4;
+  
+  display:flex;
+  text-align: center;
+  align-items: center;
+  justify-content:space-between;
+  
+  letter-spacing: 0.1em;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-left: 100px;
+  margin-right: 100px;
+  /* width: fit-content; */
+  /* margin-block: calc(80%); */
+  
+
+/* margin-block: calc(80%); */
+}
+
+
+.less_than {
+  margin-left: 30px;
+  font-family: SF Pro Display;
+  width: 600px; /* the bigger the font, the wider it needs */
+  /* height: 50px; */
+  /* letter-spacing: 0.1em; */
+  /* text-transform: uppercase; */
+  text-align:left;
+
+  color: #ECEFF4;
+  font-size: 30px; 
+  font-weight: bold;
+  align-items: center;
+
+}
+
+.mark-less {
+font-size: 30px;
+}
+
+.size-logo-game {
+width: 50px;
+height: 50px;
+}
+
+.tag-name {
+font-size: 40px;
+/* text-align: center;
+align-items: center; */
+font-family: Open Sans;
+color: #ECEFF4;
+font-weight: bold;
+padding: 40px;
+
+}
+.tag-name-p1 {
+font-size: 40px;
+/* text-align: center;
+align-items: center; */
+font-family: Open Sans;
+color: #ECEFF4;
+font-weight: bold;
+padding: 40px;
+
+}
+
+.bg-black {
+width: 100vw;
+/* min-height: 100vh; */
+background-color: #171A21;
+}
+
+
+.button-refresh {
+  border-radius: 10px;
+  font-weight: bold;
+  font-size:20px;
+  /* line-height: 480px; */
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #ECEFF4;
+
+
+  display:flex;
+  text-align: center;
+  align-items: center;
+  justify-content:space-between;
+  letter-spacing: 0.1em;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.inhibitColor {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+.inhibitColor:hover {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+
+}
+
+.center-versus {
+  margin-top: calc(20%);
+  align-items:center;
+
+}
+
+.margin-vs-refresh {
+  margin-top: 100px;
+}
